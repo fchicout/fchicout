@@ -55,4 +55,4 @@ I'm a **SysAdmin** turned **DevOps Engineer** and **Researcher** with a passion 
 
 <br/>
 
-![Fábio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fchicout&show_icons=true&theme=radical&hide_border=true)
+![Fábio's GitHub Streak](https://streak-stats.demolab.com?user=fchicout&theme=radical&hide_border=true)
