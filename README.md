@@ -54,5 +54,7 @@ I'm a **SysAdmin** turned **DevOps Engineer** and **Researcher** with a passion 
 </div>
 
 <br/>
-[![Fábio' Github Streak](https://github-readme-streak-stats.herokuapp.com?user=fchicout)](https://git.io/streak-stats)
+![Fábio' Github Streak](https://github-readme-streak-stats.herokuapp.com?user=fchicout)
+
+(https://git.io/streak-stats)
 ![Fábio's GitHub Streak](https://streak-stats.demolab.com?user=fchicout&theme=radical&hide_border=true)
