@@ -58,3 +58,13 @@ I'm a **SysAdmin** turned **DevOps Engineer** and **Researcher** with a passion 
 
 (https://git.io/streak-stats)
 ![Fábio's GitHub Streak](https://streak-stats.demolab.com?user=fchicout&theme=radical&hide_border=true)
+
+---
+
+### 🐍 My contributions, one bite at a time
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fchicout/fchicout/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fchicout/fchicout/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating fchicout's contribution grid" src="https://raw.githubusercontent.com/fchicout/fchicout/output/github-contribution-grid-snake.svg" />
+</picture>
